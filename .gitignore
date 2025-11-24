@@ -1,0 +1,74 @@
+# -----------------------------
+# Python
+# -----------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.pkl
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# Python environment files
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Jupyter
+.ipynb_checkpoints
+
+# Byte-compiled / optimized files
+*$py.class
+
+# -----------------------------
+# Configuration & Secrets
+# -----------------------------
+# VERY IMPORTANT: do NOT push your IoT Hub device connection strings
+config.json
+
+# Example config file allowed
+config.example.json
+
+# -----------------------------
+# Logs
+# -----------------------------
+*.log
+logs/
+debug.log
+
+# -----------------------------
+# IDE / Editor Files
+# -----------------------------
+# VS Code
+.vscode/
+.code-workspace
+
+# PyCharm / JetBrains
+.idea/
+
+# -----------------------------
+# OS Generated Files
+# -----------------------------
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# -----------------------------
+# Git
+# -----------------------------
+.gitignore~
+
