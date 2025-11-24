@@ -1,0 +1,10 @@
+{
+  "devices": [
+    {
+      "deviceId": "dows-lake",
+      "locationName": "Dows Lake",
+      "connectionString": "YOUR_CONNECTION_STRING_HERE"
+    }
+  ],
+  "sendIntervalSeconds": 10
+}

@@ -31,7 +31,7 @@ pip-delete-this-directory.txt
 config.json
 
 # Example config file allowed
-config.example.json
+# config.example.json
 
 # -----------------------------
 # Logs
