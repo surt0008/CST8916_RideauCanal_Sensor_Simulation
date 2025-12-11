@@ -3,17 +3,17 @@
     {
       "deviceId": "dows-lake",
       "locationName": "Dows Lake",
-      "connectionString": "YOUR_CONNECTION_STRING"
+      "connectionString": "HostName=iot-rideau-canal-surt0008.azure-devices.net;DeviceId=dows-lake;SharedAccessKey=8aVIWbwBZw6nxY1Vy5ZGFv3kXmARmaeu5Ko6SPOAHuQ="
     },
     {
       "deviceId": "fifth-avenue",
       "locationName": "Fifth Avenue",
-      "connectionString": "YOUR_CONNECTION_STRING"
+      "connectionString": "HostName=iot-rideau-canal-surt0008.azure-devices.net;DeviceId=fifth-avenue;SharedAccessKey=N6Jfn9l5PVpKR/I9KQ7dzp2Hma7void/LfDgRy4Ran0="
     },
     {
       "deviceId": "nac",
       "locationName": "NAC",
-      "connectionString": "YOUR_CONNECTION_STRING"
+      "connectionString": "HostName=iot-rideau-canal-surt0008.azure-devices.net;DeviceId=nac;SharedAccessKey=rS6QxrycHEo793Ow8uK0mUZ9cIgpesY1wxMTXwN9Iqw="
     }
   ],
   "sendIntervalSeconds": 10

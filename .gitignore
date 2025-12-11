@@ -27,7 +27,6 @@ pip-delete-this-directory.txt
 # -----------------------------
 # Configuration & Secrets
 # -----------------------------
-# VERY IMPORTANT: do NOT push your IoT Hub device connection strings
 config.json
 
 # Example config file allowed
